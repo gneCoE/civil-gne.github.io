@@ -1,6 +1,6 @@
 # Test
 
-## Siub Title
+## Sub Title
 
 ![MyTest](Images/rai.png "Rai")
 
