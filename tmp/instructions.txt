@@ -1,0 +1,11 @@
+   40  mkdir Civil
+   41  cd Civil/
+   42  echo "# civil-gne.github.io" >> README.md
+   43  git init
+   44  git add README.md
+   45  git commit -m "first commit"
+   46  git remote add origin https://github.com/civil-gne/civil-gne.github.io.git
+   47  git push -u origin master
+Import existin gproject: https://github.com/civil-gne/civil-gne.github.io/import
+
+
