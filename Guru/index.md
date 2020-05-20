@@ -14,27 +14,33 @@ Look for `Log In` on top right. Use your login credential, and click on button `
 
 Open website [gdy.club/bbb](https://gdy.club/bbb), use Enrolment, conveyed to use by Text Message.
 
-![Guru103](BBB/Guru103.png)
+![Guru104](BBB/Guru104.png)
 
 Click on Enrol me.
 
-![Guru102](BBB/Guru102.png)1
+![Guru105](BBB/Guru105.png)1
 
-![Guru101](BBB/Guru101.png)
+If you see not text immediately below `Announcement`, and above `Remote Teaching`:
 
-2
+![Guru106](BBB/Guru106.png)
 
-![Guru102](BBB/Guru102.png)1
+then, click your profile image, or name, to get drop-down images.
 
-![Guru101](BBB/Guru101.png)
+![Guru107](BBB/Guru107.png)
 
-2
+Click on `preferences`.
 
-![Guru102](BBB/Guru102.png)1
+![Guru108](BBB/Guru108.png)
 
-![Guru101](BBB/Guru101.png)
+Click on `Forum preferences`. Make sure settings are as per image below:
 
-2
+![Guru109](BBB/Guru109.png)
+
+Also set `Forum Tracking` as per image below:
+
+![Guru110](BBB/Guru110.png)
+
+Click on `Saeve images`
 
 ![Guru102](BBB/Guru102.png)
 
