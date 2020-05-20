@@ -86,5 +86,13 @@ It will allow system you to join Video Conferencing, with following default scre
 
 ![Guru129](BBB/Guru129.png)
 
+At middle of bottom, there are three round icons:
 
+1. First is to mute or unmute Mic.
+1. 2nd is to leave Lecture Room
+1. On/off webcamera
+
+Explore screen, things are self-explanatory.
+
+All the best!
 
