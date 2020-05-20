@@ -58,28 +58,33 @@ Read all text there, and click on `BBB: Way to ride`.
 
 ![Guru114](BBB/Guru114.png)
 
-Read next secreen, find `Join session`, and click on that to join Video Levture:
+Read next secreen, find `Join session`, and click on that to join Video Lecture:
 
 ![Guru116](BBB/Guru116.png)
 
-1
+If you need to listen only, then click on 2nd icon, else click on `Microphone`.
 
-![Guru101](BBB/Guru101.png)
+![Guru117](BBB/Guru117.png)
 
-2
+Then you need to perform echo test. 
 
-![Guru102](BBB/Guru102.png)1
+![Guru122](BBB/Guru122.png)
 
-![Guru101](BBB/Guru101.png)
+When prompted, speak a very short word, like `A`, and listen, if you are able to hear, toyr spoken word, after a short delay, then your setting or OK, and press click on `Yes`, else click `No`. 
 
-2
+![Guru124](BBB/Guru124.png)
 
-![Guru102](BBB/Guru102.png)
+from the different available options for Speaker and Mic, check which works for you.
 
-1
+![Guru125](BBB/Guru125.png)
 
-![Guru101](BBB/Guru101.png)
+ Repeat echo test, till you are able you listen your echo. Once you are able to do that, then, click `Yes`.
 
-2
+![Guru128](BBB/Guru128.png)
 
-![Guru102](BBB/Guru102.png)
+It will allow system you to join Video Conferencing, with following default screen.
+
+![Guru129](BBB/Guru129.png)
+
+
+
