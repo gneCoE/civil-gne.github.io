@@ -40,24 +40,29 @@ Also set `Forum Tracking` as per image below:
 
 ![Guru110](BBB/Guru110.png)
 
-Click on `Saeve images`
+Click on `Save images`
 
-![Guru102](BBB/Guru102.png)
+Now you see coun tof unread messaged.
+
+![Guru111](BBB/Guru111.png)
+
+Please read posts in Announcement Forum.
+
+![Guru112](BBB/Guru112.png)
+
+Now, click on `Remote Teaching`, which is below `Announcements`.
+
+![Guru113](BBB/Guru113.png)
+
+Read all text there, and click on `BBB: Way to ride`.
+
+![Guru114](BBB/Guru114.png)
+
+Read next secreen, find `Join session`, and click on that to join Video Levture:
+
+![Guru116](BBB/Guru116.png)
 
 1
-
-![Guru101](BBB/Guru101.png)
-
-2
-
-![Guru102](BBB/Guru102.png)
-1
-
-![Guru101](BBB/Guru101.png)
-
-2
-
-![Guru102](BBB/Guru102.png)1
 
 ![Guru101](BBB/Guru101.png)
 
