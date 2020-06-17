@@ -10,7 +10,7 @@ portal will close on 21.06.2020.
 
 Once Registered, participants will receive details and rules of the contest. 
 
-#### Register Here - http://gdy.club/pmc
+### Register Here - http://gdy.club/pmc
 
 Regards
 
