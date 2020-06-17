@@ -1,7 +1,7 @@
 # Association of Civil Engineering Students
 ## Guru Nanak Dev Engineering College, Ludhiana
 
-[Brochure](Brochure_PMC.png)
+![Brochure](Brochure_PMC.png)
 
 Hope you all are safe and sound. ACES is here to fill some excitement during this lockdown. 
 Association of Civil Engineering Students brings you an Inter-department Poster Making Contest.
